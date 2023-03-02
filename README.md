@@ -1,6 +1,5 @@
 - 👋 Hi, I’m dhinesh
-- 👀 I’m interested in Medical Imaging, AI in Radiology, Deep learning
-- 🌱 I’m currently learning how to raise a Toddler 👶
+- 👀 I’m interested in Deep learning, Data Science, Medical Imaging, AI in Radiology
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me kdhineshvikram@gmail.com 
 
