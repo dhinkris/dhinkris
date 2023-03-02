@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dhinesh
+- 👋 Hi, I’m Dhinesh
 - 👀 I’m interested in Deep learning, Data Science, Medical Imaging, AI in Radiology
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me kdhineshvikram@gmail.com 
